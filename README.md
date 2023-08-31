@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devvitorfarias" alt="devvitorfarias" /></a> </p>
 
-- 👯 For Proposals on [My Linkedin](https://www.linkedin.com/in/vitor-de-farias-metzner-679574287/)
+- 👯 For Proposals on [My Linkedin](https://www.linkedin.com/in/devvitorfarias/)
 
 - 👨‍💻 All of my projects are available at [https://devvitorfarias.vercel.app/](https://devvitorfarias.vercel.app/)
 
@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://codepen.io/devvitorfarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devvitorfarias" height="30" width="40" /></a>
 <a href="https://dev.to/devvitorfarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devvitorfarias" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vitor-de-farias-metzner-679574287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitor-de-farias-metzner-679574287/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devvitorfarias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devvitorfarias/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/devvitorfarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devvitorfarias" height="30" width="40" /></a>
 <a href="https://codesandbox.com/devvitorfarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="devvitorfarias" height="30" width="40" /></a>
 </p>
