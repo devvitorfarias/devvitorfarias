@@ -6,7 +6,7 @@
 
 - 👯 For Proposals on [My Linkedin](https://www.linkedin.com/in/devvitorfarias/)
 
-- 👨‍💻 Available at [https://devvitorfarias.vercel.app/](https://devvitorfarias.vercel.app/)
+- 👨‍💻 Available at [https://devvitor.vercel.app/](https://devvitor.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
