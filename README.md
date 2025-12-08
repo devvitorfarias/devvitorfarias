@@ -125,28 +125,6 @@ I'm a **passionate developer** and **creative problem solver** who cares deeply 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devvitorfarias&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devvitorfarias&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devvitorfarias&theme=tokyonight&hide_border=true)
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=devvitorfarias&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-🎮 **Technical Digital Games** | SENAI (2019)
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
