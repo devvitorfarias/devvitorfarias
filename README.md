@@ -17,7 +17,7 @@ const vitor = {
     location: "Brazil 🇧🇷",
     languages: ["Portuguese (Native)", "English (Advanced)", "German (Beginner)"],
     currentFocus: ["Cloud Architecture", "Microservices", "Mobile Development"],
-    hobbies: ["Problem Solving", "Learning New Technologies", "Building Side Projects"]
+    hobbies: ["Card Game"]
 };
 ```
 
