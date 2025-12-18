@@ -24,7 +24,7 @@ const vitor = {
 I'm a **passionate developer** and **creative problem solver** who cares deeply about creating great products. With over 5 years of experience in software development, I specialize in building scalable systems, e-commerce platforms, and mobile applications.
 
 ### 💼 Current Role
-- 🏢 **Senior Java Developer** at ACT Digital
+- 🏢 **Senior Java Developer** at VOLKS GROUP
 - 🔧 Building robust financial systems with **Java, C++, and AWS**
 - ☁️ Expertise in cloud infrastructure and microservices architecture
 
