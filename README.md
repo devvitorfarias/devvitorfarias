@@ -3,7 +3,7 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=devvitorfarias&color=blueviolet)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devvitorfarias/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/devvitor1/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://devvitor.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:contato.vitorfariass@gmail.com)
   
